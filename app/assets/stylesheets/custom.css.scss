@@ -2,7 +2,7 @@
 @import "bootstrap";
 
 body {
-  padding-top: 78px;
+  padding-top: 80px;
   background: #e1e1e1;
   color: #64103F;
 }
@@ -10,7 +10,7 @@ body {
 // Navbar styling
 .navbar {
  background: #64103F;
- padding-bottom: 18px;
+ padding-bottom: 20px;
 }
 
 .navbar-default .navbar-brand {
@@ -49,6 +49,10 @@ body {
 }
 
 // Listing articles styling
+
+.detail-article {
+  padding-left: 2em;
+}
 
 .article-title {
   font-weight: bold;
